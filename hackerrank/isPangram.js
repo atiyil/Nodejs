@@ -1,7 +1,7 @@
 // takes an array of strings and returns an array having 1 or 0 for each string 
 // if the string includes all characters in the alphabet
 
-function isPanagram(strings) {
+function isPangram(strings) {
   ret = []
   a = "abcdefghijklmnopqrstuvwxyz".split('')
   strings.forEach(function(s) {r = 1;a.forEach(function(e) {
