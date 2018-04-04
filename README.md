@@ -1,2 +1,2 @@
 ## Nodejs examples
-* Several codes for Node.js
+* Several coding examples for Node.js
